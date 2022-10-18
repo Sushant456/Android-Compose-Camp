@@ -1,4 +1,4 @@
-## To-Do App with Jetpack Compose MVVM - Android Development
+## To-Do App with Jetpack Compose
 
 - ROOM Database: To save and read the data from a local database, plus we are going to write some custom SQL queries as well.
 
