@@ -21,8 +21,8 @@ Features
 <li>Change Priority of the Tasks</li></br>
 
 
-
-
+![1](https://user-images.githubusercontent.com/16501479/196466482-ebffd1d2-ede4-430b-bd3a-17c19ed07f92.png)
+![2](https://user-images.githubusercontent.com/16501479/196466486-a62281f3-a675-461a-be8a-403b1bf63703.png)
 
 
 ⭐ **Functionality & Concepts used :**
