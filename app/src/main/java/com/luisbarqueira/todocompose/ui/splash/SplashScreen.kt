@@ -73,9 +73,9 @@ fun SplashScreen(
 @Composable
 fun getLogo(): Int {
     return if (isSystemInDarkTheme()) {
-        R.drawable.ic_logo_dark
+        R.drawable.logo_112
     } else {
-        R.drawable.ic_logo_light
+        R.drawable.logo_112
     }
 }
 

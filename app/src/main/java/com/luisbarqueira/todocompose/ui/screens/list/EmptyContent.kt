@@ -30,7 +30,7 @@ fun EmptyContent() {
     ) {
         Icon(
             modifier = Modifier.size(120.dp), // size applies to both, width and height, 120.dp
-            painter = painterResource(id = R.drawable.ic_sad_face),
+            painter = painterResource(id = R.drawable.sad_face11),
             contentDescription = stringResource(id = R.string.sad_face_icon),
             tint = MediumGray
         )
