@@ -1,6 +1,30 @@
 # Android Compose Camp
 ## To-Do App with Jetpack Compose
 
+⭐ **Problem Statement:**
+
+Social media and other easily accessible online distractions make it hard for us to stay focused on our tasks and make it difficult for us to do our work efficiently.
+The goal of this app is to help us become more aware of how we spend time in the process of doing those tasks and how productive that time is. 
+It can help set some constraints on social media to reduce distraction sowe are able to manage our daily routines more efficiently.
+
+⭐ **Proposed Solution :**
+
+To-DO Compose app is used for making short Tasks, update when you need them, and trash when you are done.It can be used for various functions as you can add add, delete, categorize by its priority, etc. The app is very useful in some cases like when you want quick access to the Important Tasks. 
+
+Proudly 💪 made in Jetpack Compose
+
+Features
+<li>Add Tasks</li>
+<li>Delete Tasks</li>
+<li>Edit Tasks</li>
+<li>Search Tasks</li>
+<li>Change Priority of the Tasks</li></br>
+
+
+
+
+
+
 ⭐ **Functionality & Concepts used :**
 - ROOM Database: To save and read the data from a local database, plus we are going to write some custom SQL queries as well.
 
